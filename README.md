@@ -7,7 +7,7 @@ I'm a Software Engineering student at **Hasan Kalyoncu University** (2021-2026) 
 - 🔭 I’m currently working on **Mobile Application Development with React Native**
 - 🌱 I’m currently learning **Data Science & AI**
 - 📍 Based in **Gaziantep, Türkiye**
-- 📫 How to reach me: **esra.keskin@std.hku.edu.tr**
+- 📫 How to reach me: **esranurkskn42@gmail.com**
 
 ---
 
