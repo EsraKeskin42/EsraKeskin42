@@ -46,9 +46,3 @@ I'm a Software Engineering student at **Hasan Kalyoncu University** (2021-2026) 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=esrakeskin&show_icons=true&theme=radical" alt="esrakeskin" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrakeskin&layout=compact&theme=radical" alt="esrakeskin" />
-</p>
