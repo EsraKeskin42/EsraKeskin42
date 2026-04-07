@@ -5,7 +5,6 @@
 I'm a Software Engineering student at **Hasan Kalyoncu University** (2021-2026) with a passion for creating intuitive user experiences and solving dynamic challenges. I focus on delivering impactful results through project management and seamless collaboration.
 
 - 🔭 I’m currently working on **Mobile Application Development with React Native**
-- 🌱 I’m currently learning **Data Science & AI**
 - 📍 Based in **Gaziantep, Türkiye**
 - 📫 How to reach me: **esranurkskn42@gmail.com**
 
@@ -14,7 +13,6 @@ I'm a Software Engineering student at **Hasan Kalyoncu University** (2021-2026) 
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
