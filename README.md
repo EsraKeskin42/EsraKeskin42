@@ -8,7 +8,7 @@ Currently studying **Software Engineering at Hasan Kalyoncu University (2021 –
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 📱 Developing cross-platform mobile applications using **React Native**
 - 🌐 Interested in **Web Development, UI/UX, and API Integration**
@@ -19,7 +19,7 @@ Currently studying **Software Engineering at Hasan Kalyoncu University (2021 –
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Mobile Development
 <p align="left">
@@ -60,7 +60,7 @@ Currently studying **Software Engineering at Hasan Kalyoncu University (2021 –
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -70,7 +70,7 @@ Currently studying **Software Engineering at Hasan Kalyoncu University (2021 –
 
 ---
 
-# 🏆 Certificates & Achievements
+# Certificates & Achievements
 
 - 🎓 **Introduction to Data Science and AI** — Miuul *(Feb 2025)*
 - 🎓 **Data Science & AI Engineering Mini Bootcamp** — Miuul *(Dec 2024)*
@@ -80,7 +80,7 @@ Currently studying **Software Engineering at Hasan Kalyoncu University (2021 –
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Advanced React Native Development
 - Backend API Integration
@@ -89,7 +89,7 @@ Currently studying **Software Engineering at Hasan Kalyoncu University (2021 –
 
 ---
 
-## 🌟 Soft Skills
+## Soft Skills
 
 `Problem Solving` • `Team Collaboration` • `Project Management` • `Communication` • `Adaptability`
 
