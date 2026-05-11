@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there, I'm Esra Keskin 👋
 
 ### 💻 Software Engineering Student | Mobile & Web Developer
@@ -98,4 +98,4 @@ Currently studying **Software Engineering at Hasan Kalyoncu University (2021 –
 <p align="center">
   ✨ “Building software that creates meaningful user experiences.” ✨
 </p>
-```
+
